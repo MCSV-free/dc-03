@@ -157,7 +157,7 @@
                 {"text": "Phenol tham gia phản ứng thế với $Br_2$ tạo thành 2,4,6-tribromophenol.", "correct": true},
                 {"text": "Phenol là hợp chất hữu cơ trong phân tử có vòng benzene và nhóm $-OH$ liên kết trực tiếp với nhau.", "correct": true},
                 {"text": "Do có nhóm $-OH$ nên Phenol tan vô hạn trong nước ở điều kiện thường tương tự ethanol.", "correct": false},
-                {"text": "Dung dịch Phenol không làm đổi màu giấy quỳ tím, do đó phenol có tính acid yếu.", "correct": false},
+                {"text": "Dung dịch Phenol không làm đổi màu giấy quỳ tím, do đó phenol có tính acid yếu.", "correct": true},
                 {"text": "Phenol phản ứng được với dung dịch base như NaOH, KOH.", "correct": true}
             ],
             "True": "T"
