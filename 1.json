@@ -1,0 +1,166 @@
+{
+    "Mon": "Hóa học",
+    "QA": [
+        {
+            "Q": "Chất nào là dẫn xuất halogen của hydrocarbon?",
+            "A": "$Cl-CH_2-COOH$",
+            "B": "$C_6H_5-CH_2-Cl$",
+            "C": "$CH_3-CH_2-Mg-Br$",
+            "D": "$CH_3-CO-Cl$",
+            "True": "B"
+        },
+        {
+            "Q": "Nitro hoá benzene bằng hỗn hợp $HNO_3$ đặc và $H_2SO_4$ đặc, tạo thành chất hữu cơ X. Phát biểu nào sau đây về X sai?",
+            "A": "X là nitrobenzene.",
+            "B": "X là chất lỏng, sánh như dầu.",
+            "C": "X có màu vàng.",
+            "D": "Công thức phân tử của X là $C_6H_5NO_2$.",
+            "True": "C"
+        },
+        {
+            "Q": "Kết quả thí nghiệm trong bài thực hành về alcohol - phenol của hai chất X và Y với thuốc thử được ghi ở bảng sau:\nX: nước bromine → xuất hiện kết tủa trắng\nY: $Cu(OH)_2$ trong môi trường NaOH → dung dịch có màu xanh lam\nPhát biểu đúng là:",
+            "A": "X là ethanol và Y là glycerol.",
+            "B": "X là phenol và Y là ethanol.",
+            "C": "X là phenol và Y là glycerol.",
+            "D": "X là glycerol và Y là ethanol.",
+            "True": "C"
+        },
+        {
+            "Q": "Aldehyde là hợp chất hữu cơ trong phân tử có",
+            "A": "nhóm chức $-OH$ liên kết trực tiếp với nguyên tử carbon no.",
+            "B": "nhóm chức $-COO-$ liên kết trực tiếp với nguyên tử carbon hoặc nguyên tử hydrogen.",
+            "C": "nhóm chức $-CHO$ liên kết trực tiếp với nguyên tử carbon hoặc nguyên tử hydrogen.",
+            "D": "nhóm chức $-COOH$ liên kết trực tiếp với nguyên tử carbon hoặc nguyên tử hydrogen.",
+            "True": "C"
+        },
+        {
+            "Q": "Khi nhỏ từ từ dung dịch bromine vào ống nghiệm chứa dung dịch phenol, hiện tượng quan sát được trong ống nghiệm là",
+            "A": "dung dịch trong suốt.",
+            "B": "không xảy ra hiện tượng gì.",
+            "C": "nước bromine không mất màu và xuất hiện kết tủa trắng.",
+            "D": "nước bromine bị mất màu và xuất hiện kết tủa trắng.",
+            "True": "D"
+        },
+        {
+            "Q": "Chất nào là dẫn xuất halogen của hydrocarbon?",
+            "A": "$Cl-CH_2-COOH$",
+            "B": "$C_6H_5-CH_2-Cl$",
+            "C": "$CH_3-CH_2-Mg-Br$",
+            "D": "$CH_3-CO-Cl$",
+            "True": "B"
+        },
+        {
+            "Q": "Trong các chất sau, chất nào thuộc loại phenol?",
+            "A": "$o-CH_3-C_6H_4-COOH$ (2-methylbenzoic acid).",
+            "B": "$C_6H_5-CH_2OH$ (benzyl alcohol).",
+            "C": "$p-CH_3-C_6H_4-OH$ (p-cresol).",
+            "D": "2-methylcyclohexan-1-ol.",
+            "True": "C"
+        },
+        {
+            "Q": "Ethanoic acid không tác dụng với chất",
+            "A": "kim loại Cu.",
+            "B": "ethanol (xúc tác $H_2SO_4$ đặc).",
+            "C": "đá vôi ($CaCO_3$).",
+            "D": "dung dịch NaOH.",
+            "True": "A"
+        },
+        {
+            "Q": "Trong các hợp chất sau, hợp chất có phản ứng iodoform là",
+            "A": "$HCHO$.",
+            "B": "$(CH_3)_2CHCHO$.",
+            "C": "$CH_3COCH_3$.",
+            "D": "$CH_3CH_2CHO$.",
+            "True": "C"
+        },
+        {
+            "Q": "Tên gọi của $CH_2=CH-COOH$ là",
+            "A": "acrylic acid.",
+            "B": "acetic acid.",
+            "C": "formic acid.",
+            "D": "propionic acid.",
+            "True": "A"
+        },
+        {
+            "Q": "Alcohol là những hợp chất hữu cơ mà phân tử có chứa nhóm $-OH$ liên kết trực tiếp với",
+            "A": "nguyên tử carbon.",
+            "B": "nguyên tử oxygen.",
+            "C": "nguyên tử carbon no.",
+            "D": "nguyên tử carbon không no.",
+            "True": "C"
+        },
+        {
+            "Q": "Trong các chất sau đây, chất có nhiệt độ sôi cao nhất là",
+            "A": "ethyl chloride.",
+            "B": "ethanol.",
+            "C": "acetone.",
+            "D": "propanoic acid.",
+            "True": "D"
+        },
+        {
+            "Q": "Tên gọi của $HCOOH$ là",
+            "A": "acrylic acid.",
+            "B": "acetic acid.",
+            "C": "formic acid.",
+            "D": "propionic acid.",
+            "True": "C"
+        },
+        {
+            "Q": "Tên gọi của $CH_3COOH$ là",
+            "A": "acrylic acid.",
+            "B": "acetic acid.",
+            "C": "formic acid.",
+            "D": "propionic acid.",
+            "True": "B"
+        },
+        {
+            "Q": "Trong các hợp chất sau, hợp chất có phản ứng iodoform là",
+            "A": "$HCHO$.",
+            "B": "$(CH_3)_2CHCHO$.",
+            "C": "$CH_3CHO$.",
+            "D": "$CH_3CH_2CHO$.",
+            "True": "C"
+        },
+        {
+            "Q": "Chất nào là ketone?",
+            "A": "$H-CH=O$.",
+            "B": "$O=CH-CH=O$.",
+            "C": "$CH_3-CH=O$.",
+            "D": "$CH_3-CO-CH_3$.",
+            "True": "D"
+        },
+        {
+            "Q": "Cho các phát biểu, phát biểu nào đúng?",
+            "type": "true_false_set",
+            "questions": [
+                {"text": "Aldehyde chỉ có tính oxi hóa.", "correct": false},
+                {"text": "Ketone/aldehyde đều phản ứng được với thuốc thử Tollens.", "correct": false},
+                {"text": "Tất cả aldehyde và ketone đều có phản ứng iodoform.", "correct": false},
+                {"text": "Khi bị côn trùng cắn, đốt thì bôi giấm lên chỗ vết côn trùng cắn, đốt.", "correct": false},
+                {"text": "Aldehyde vừa có tính oxi hóa, vừa có tính khử.", "correct": true},
+                {"text": "Aldehyde đều phản ứng được với thuốc thử Tollens.", "correct": true},
+                {"text": "Chỉ methylketone có phản ứng iodoform.", "correct": false},
+                {"text": "Khi bị côn trùng cắn, đốt thì bôi vôi hoặc xà phòng lên chỗ vết côn trùng cắn, đốt.", "correct": true}
+            ],
+            "True": "T"
+        },
+        {
+            "Q": "Các phát biểu về phenol:",
+            "type": "true_false_set",
+            "questions": [
+                {"text": "Phenol (M = 94) và toluene (M = 92) có nhiệt độ nóng chảy tương đương nhau do khối lượng phân tử gần bằng nhau.", "correct": false},
+                {"text": "Phenol đơn giản nhất có chứa 2 nguyên tử oxygen.", "correct": false},
+                {"text": "Phenol có tính acid yếu, không làm quỳ tím hóa đỏ.", "correct": true},
+                {"text": "Phenol tham gia phản ứng cộng với $Br_2$ tạo thành 2,4,6-tribromophenol.", "correct": false},
+                {"text": "Phenol đơn giản nhất có chứa 1 nguyên tử oxygen.", "correct": true},
+                {"text": "Phenol có tính acid, làm quỳ tím hóa đỏ.", "correct": false},
+                {"text": "Phenol tham gia phản ứng thế với $Br_2$ tạo thành 2,4,6-tribromophenol.", "correct": true},
+                {"text": "Phenol là hợp chất hữu cơ trong phân tử có vòng benzene và nhóm $-OH$ liên kết trực tiếp với nhau.", "correct": true},
+                {"text": "Do có nhóm $-OH$ nên Phenol tan vô hạn trong nước ở điều kiện thường tương tự ethanol.", "correct": false},
+                {"text": "Dung dịch Phenol không làm đổi màu giấy quỳ tím, do đó phenol có tính acid yếu.", "correct": false},
+                {"text": "Phenol phản ứng được với dung dịch base như NaOH, KOH.", "correct": true}
+            ],
+            "True": "T"
+        }
+    ]
+}
